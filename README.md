@@ -1,4 +1,6 @@
 # testrepolink
 testing link to jetbrains
 
-All Yopu Base Are Belong To Us
+All Your Base Are Belong To Us
+
+Playing with Git implementations
